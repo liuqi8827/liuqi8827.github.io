@@ -24,9 +24,9 @@ author:
   avatar           : "liuqi.png"
   name             : "刘奇"
   pronouns         : # example: "she/her"  
-  bio              : "特聘副研究员"
+  bio              : "强化学习，具身智能，大模型安全对齐"
   location         : "沈阳，中国"
-  employer         : "Red Brick University"
+  employer         : "东北大学"
   uri              : # URL
   email            : "liuqi@mail.neu.edu.cn" 
 
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?user=caIOS-YAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7485-6344"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 

@@ -30,12 +30,12 @@ redirect_from:
   Mentor：徐斌峰，地平线机器人算法工程师。
 
 ## 发表论文（部分）（<sup>†</sup>共同一作）
-- **Q. Liu**, Y. Li, X. Shi, et al. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR Q1，中科院大类1区，IF: 10.4，TOP期刊)
-- **Q. Liu**, Y. Li, et al. Data Efficient Deep Reinforcement Learning With Action-Ranked Temporal Difference Learning, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024. (JCR Q1，中科院大类2区，IF: 5.3)
-- **Q. Liu**, Y. Li, S. Chen, et al. Distributional Reinforcement Learning With Epistemic and Aleatoric Uncertainty Estimation. Information Sciences, 2023. (JCR Q1，中科院大类1区，IF: 8.1，TOP期刊)
-- Z. Zhang<sup>†</sup>, **Q. Liu<sup>†</sup>**, Y. Li, et al. Safe Reinforcement Learning in Autonomous Driving With Epistemic Uncertainty Estimation. IEEE Transactions on Intelligent Transportation Systems, 2024. (JCR Q1，中科院大类1区，IF: 8.5，TOP期刊)
+- **Q. Liu**, Y. Li, X. Shi, et al. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR 1区，中科院大类1区，IF: 10.4，TOP期刊)
+- **Q. Liu**, Y. Li, et al. Data Efficient Deep Reinforcement Learning With Action-Ranked Temporal Difference Learning, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024. (JCR 1区，中科院大类2区，IF: 5.3)
+- **Q. Liu**, Y. Li, S. Chen, et al. Distributional Reinforcement Learning With Epistemic and Aleatoric Uncertainty Estimation. Information Sciences, 2023. (JCR 1区，中科院大类1区，IF: 8.1，TOP期刊)
+- Z. Zhang<sup>†</sup>, **Q. Liu<sup>†</sup>**, Y. Li, et al. Safe Reinforcement Learning in Autonomous Driving With Epistemic Uncertainty Estimation. IEEE Transactions on Intelligent Transportation Systems, 2024. (JCR 1区，中科院大类1区，IF: 8.5，TOP期刊)
 - P. Chen<sup>†</sup>, **Q. Liu<sup>†</sup>**, Y. Li, et al. An Environmental-Complexity-Based Navigation Method Based on Hierarchical Deep Reinforcement Learning. 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024. (机器人顶会，CSRankings)
-- **Q. Liu**, X. Di, et al. Autonomous Vehicle Self-localization in Urban Environments based on 3D Curvature Feature points – Monte Carlo Localization. Robotica, 2022. (JCR Q3，中科院大类3区，IF: 2.7)
+- **Q. Liu**, X. Di, et al. Autonomous Vehicle Self-localization in Urban Environments based on 3D Curvature Feature points – Monte Carlo Localization. Robotica, 2022. (JCR 3区，中科院大类3区，IF: 2.7)
 
 
 ## 学术兼职

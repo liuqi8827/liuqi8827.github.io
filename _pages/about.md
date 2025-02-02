@@ -16,7 +16,7 @@ redirect_from:
 - **大语言模型对齐**：如安全价值对齐、人类反馈强化学习等
 - **具身智能**：基于学习（深度强化学习、模仿学习和大模型等）的各类智能机器人控制、决策和协作，如：四足机械狗的步态和技能学习、机械臂和多指灵巧手的操作、双足人形机器人全身控制、轮式机器人和无人驾驶导航。
 
-<font color="red">欢迎对上述方向感兴趣的学生（本硕博）联系，进行科研合作（可远程）。           
+<font color=#FF000>欢迎对上述方向感兴趣的学生（本硕博）联系，进行科研合作（可远程）。           
 也欢迎对深度强化学习在其他领域的应用（如：智能电网、推荐系统、自动股票交易等）感兴趣的同学联系，本人也做过相关的研究。</font>
 
 ## <font color="blue">研究经历</font>
@@ -30,7 +30,7 @@ redirect_from:
   Mentor：徐斌峰，地平线机器人算法工程师。
 
 ## <font color="blue">科研论文（部分）（<sup>†</sup>共同一作）</font>
-- **Qi Liu**, Yanjie Li, Xiongtao Shi, Ke Lin, Yuecheng Liu, Yunjiang Lou.. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR 1区，中科院大类1区，IF: 10.4，TOP期刊)
+- **Qi Liu**, Yanjie Li, Xiongtao Shi, Ke Lin, Yuecheng Liu, Yunjiang Lou. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR 1区，中科院大类1区，IF: 10.4，TOP期刊)
 - **Qi Liu**, Yanjie Li, Yuecheng Liu，Ke Lin，Jianqi Gao, Yunjiang Lou. Data Efficient Deep Reinforcement Learning With Action-Ranked Temporal Difference Learning, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024. (JCR 1区，中科院大类2区，IF: 5.3)
 - **Qi Liu**, Yanjie Li, Shiyu Chen, Ke Lin, Xiongtao Shi, Yunjiang Lou. Distributional Reinforcement Learning With Epistemic and Aleatoric Uncertainty Estimation. Information Sciences, 2023. (JCR 1区，中科院大类1区，IF: 8.1，TOP期刊)
 - Zheng Zhang<sup>†</sup>, **Qi Liu<sup>†</sup>**, Yanjie Li, Ke Lin, Linyu Li. Safe Reinforcement Learning in Autonomous Driving With Epistemic Uncertainty Estimation. IEEE Transactions on Intelligent Transportation Systems, 2024. (JCR 1区，中科院大类1区，IF: 8.5，TOP期刊)

@@ -56,7 +56,7 @@ redirect_from:
 - IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
-## 获奖荣誉（部分）
+## <font color="blue">获奖荣誉（部分）</font>
 - 国家奖学金, 2015
 - 国家奖学金, 2014
 - 国家励志奖学金, 2016

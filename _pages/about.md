@@ -52,32 +52,28 @@ redirect_from:
   </video>
 
 - 双足人形机器人控制
-<video controls width="300" height="400">
-  <source src="../images/双足人形机器人控制.mp4" type="video/mp4">
-</video>
+  <video controls width="300" height="400">
+    <source src="../images/双足人形机器人控制.mp4" type="video/mp4">
+  </video>
 
 - 基于深度强化学习的机械臂和多指灵巧手操作
-<video controls width="300">
-  <source src="../images/视频1.mp4" type="video/mp4">
-</video>
-<video controls width="350">
-  <source src="../images/视频3.mp4" type="video/mp4">
-</video>
+  <video controls width="300" height="200">
+    <source src="../images/视频1.mp4" type="video/mp4">
+  </video>
+  <video controls width="300" height="200">
+    <source src="../images/视频3.mp4" type="video/mp4">
+  </video>
 
 - 基于深度安全强化学习的无地图机器人导航
-<video controls width="300" height="400">
-  <source src="../images/视频7压缩.mp4" type="video/mp4">
-</video>
+  <video controls width="300" height="400">
+    <source src="../images/视频7压缩.mp4" type="video/mp4">
+  </video>
 
 - 密集行人环境下基于深度强化学习的机器人导航
-<video controls width="300">
-  <source src="../images/密集行人环境下基于深度强化学习的机器人导航仿真环境.mp4" type="video/mp4">
-</video>
-<video controls width="350">
-  <source src="../images/oudoor压缩.gif" type="image/gif">
-</video>
-
-
+  <video controls width="300" height="200">
+    <source src="../images/密集行人环境下基于深度强化学习的机器人导航仿真环境.mp4" type="video/mp4">
+  </video>
+  <img src="../images/oudoor压缩.gif" alt="GIF 动画" width="300" height="200">
 
 
 ## <font color="blue">学术兼职</font>

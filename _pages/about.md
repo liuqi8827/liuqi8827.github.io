@@ -46,13 +46,6 @@ redirect_from:
 
 
 ## <font color="blue">具身智能示例（部分）</font>
-style>
-  video {
-    margin: 0;
-    padding: 0;
-  }
-</style>
-
 基于多智能体深度强化学习的单体四足机械狗控制
 <video controls width="400" height="300">
   <source src="../images/四足机械狗控制.mp4" type="video/mp4">

@@ -75,6 +75,11 @@ redirect_from:
 </video>
 <img src="../images/outdoor压缩.gif" alt="" width="400" height="300">
 
+- 基于深度安全强化学习的无人驾驶
+<video controls width="400" height="300">
+  <source src="../images/基于深度安全强化学习无人驾驶.mp4" type="video/mp4">
+</video>
+
 
 ## <font color="blue">学术兼职</font>
 担任多个国际期刊和会议审稿人：

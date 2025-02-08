@@ -20,13 +20,13 @@ redirect_from:
 **<font color="red">也欢迎对深度强化学习在其他领域的应用（如：智能电网、推荐系统、自动股票交易等）感兴趣的学生和业界朋友联系，本人也做过相关的研究。</font>**      
 
 ## <font color="blue">研究经历</font>
-- 2024.08 - 2024.11：北京星动纪元科技有限公司(ROBOTERA)，具身智能研究实习生，研究基于深度强化学习的机械臂和5指灵巧手控制。    
+- 2024.08 - 2024.11：[北京星动纪元科技有限公司(ROBOTERA)](https://www.robotera.com/)，具身智能研究实习生，研究基于深度强化学习的机械臂和5指灵巧手控制。    
   Mentor：[陈建宇](https://scholar.google.com/citations?user=rc9jIf0AAAAJ&hl=en)，清华大学交叉信息研究院助理教授。
-- 2024.03 - 2024.06：北京智谱AI (Zhipu AI)，大语言模型(Large Language Model, LLM) 研究实习生，研究基于大模型的代码生成。    
+- 2024.03 - 2024.06：[北京智谱AI (Zhipu AI)](https://www.zhipuai.cn/)，大语言模型(Large Language Model, LLM) 研究实习生，研究基于大模型的代码生成。    
   Mentor：[牛艺霖](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh-CN)，智谱AI大模型对齐(RLHF)组负责人。
-- 2023.08 - 2024.02：粤港澳大湾区数字经济研究院(International Digital Economy Academy, IDEA)，LLM研究实习生，研究LLM对齐(Reinforcement Learning from Human Feedback, RLHF)及其改进。      
+- 2023.08 - 2024.02：[粤港澳大湾区数字经济研究院(International Digital Economy Academy, IDEA)](https://www.idea.edu.cn/)，LLM研究实习生，研究LLM对齐(Reinforcement Learning from Human Feedback, RLHF)及其改进。      
   Mentor：[张家兴](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en)，IDEA研究院讲席科学家。
-- 2018.07 - 2018.12：地平线机器人(Horizon Robotics)，无人驾驶研究实习生，研究室外无人车定位与建图算法(SLAM)。      
+- 2018.07 - 2018.12：[地平线机器人(Horizon Robotics)](https://www.horizon.auto/)，无人驾驶研究实习生，研究室外无人车定位与建图算法(SLAM)。      
   Mentor：徐斌峰，地平线机器人算法工程师。
 
 ## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作）</span> </font>

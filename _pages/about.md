@@ -16,10 +16,6 @@ redirect_from:
 - **大语言模型对齐**：如安全价值对齐、人类反馈强化学习等
 - **具身智能**：基于学习（深度强化学习、模仿学习和大模型等）的各类智能机器人控制、决策和协作，如：四足机械狗的步态和技能学习、机械臂和多指灵巧手的操作、双足人形机器人全身控制、轮式机器人和无人驾驶导航。
 
-<video controls width="600">
-  <source src="../images/密集行人环境下基于深度强化学习的机器人导航仿真环境.mp4" type="video/mp4">
-</video>
-
 **<font color="red">欢迎对上述方向感兴趣的学生（本硕博）和业界朋友联系，进行科研合作（可远程）。</font>**           
 **<font color="red">也欢迎对深度强化学习在其他领域的应用（如：智能电网、推荐系统、自动股票交易等）感兴趣的学生和业界朋友联系，本人也做过相关的研究。</font>**      
 
@@ -50,6 +46,24 @@ redirect_from:
 ## <font color="blue">在审论文</font>
 - IEEE TNNLS
 - IEEE TETC
+
+
+## <font color="blue">具身智能示例（部分）</font>
+- 密集行人环境下基于深度强化学习的机器人导航
+<video controls width="300">
+  <source src="../images/密集行人环境下基于深度强化学习的机器人导航仿真环境.mp4" type="video/mp4">
+</video>
+
+- 基于多智能体深度强化学习的单体四足机械狗控制
+<video controls width="300">
+  <source src="../images/四足机械狗控制.mp4" type="video/mp4">
+</video>
+
+- 基于深度强化学习的机械臂和多指灵巧手操作
+<video controls width="300">
+  <source src="../images/视频1.mp4" type="video/mp4">
+</video>
+
 
 ## <font color="blue">学术兼职</font>
 担任多个国际期刊和会议审稿人：

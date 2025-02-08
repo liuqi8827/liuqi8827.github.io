@@ -59,9 +59,9 @@ redirect_from:
 ## <font color="blue">获奖荣誉（部分）</font>
 - 优秀博士毕业生, 校级，2024
 - 优秀学生干部, 校级，2021
+- 国家励志奖学金, 省级，2016
 - 国家奖学金, 国家级，2015
 - 国家奖学金, 国家级，2014
-- 国家励志奖学金, 省级，2016
 
 ## <font color="blue">联系方式</font>
 - 电子邮箱：liuqi@mail.neu.edu.cn, liuqi8827@gmail.com

@@ -16,8 +16,8 @@ redirect_from:
 - **大语言模型对齐**：如安全价值对齐、人类反馈强化学习等
 - **具身智能**：基于学习（深度强化学习、模仿学习和大模型等）的各类智能机器人控制、决策和协作，如：四足机械狗的步态和技能学习、机械臂和多指灵巧手的操作、双足人形机器人全身控制、轮式机器人和无人驾驶导航。
 
-<font color="red">欢迎对上述方向感兴趣的学生（本硕博）和业界朋友联系，进行科研合作（可远程）。</font>           
-<font color="red">也欢迎对深度强化学习在其他领域的应用（如：智能电网、推荐系统、自动股票交易等）感兴趣的学生和业界朋友联系，本人也做过相关的研究。</font>      
+**<font color="red">欢迎对上述方向感兴趣的学生（本硕博）和业界朋友联系，进行科研合作（可远程）。</font>**           
+**<font color="red">也欢迎对深度强化学习在其他领域的应用（如：智能电网、推荐系统、自动股票交易等）感兴趣的学生和业界朋友联系，本人也做过相关的研究。</font>**      
 
 ## <font color="blue">研究经历</font>
 - 2024.08 - 2024.11：北京星动纪元科技有限公司(ROBOTERA)，具身智能研究实习生，研究基于深度强化学习的机械臂和5指灵巧手控制。    
@@ -43,6 +43,10 @@ redirect_from:
 - **Qi Liu<sup>#</sup>**, Jingxiang Guo<sup>#</sup>, Sixi Lin, Shuaikang Ma, Jinxuan Zhu, Yanjie Li. MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion. arXiv preprint arXiv:2408.13759
 - **Qi Liu**, Jianqi Gao, et al. Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective. arXiv preprint arXiv:2408.13750
 
+## 审稿中
+- IEEE TNNLS
+- IEEE TETC
+
 ## <font color="blue">学术兼职</font>
 担任多个国际期刊和会议审稿人：
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
@@ -52,7 +56,14 @@ redirect_from:
 - IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
+## 获奖荣誉（部分）
+- 国家奖学金, 2015
+- 国家奖学金, 2014
+- 国家励志奖学金, 2016
+
 ## <font color="blue">联系方式</font>
 - 电子邮箱：liuqi@mail.neu.edu.cn, liuqi8827@gmail.com
 - 手机和微信号：13713517967
 - 办公室：东北大学（浑南校区）建筑学馆B座410室
+
+<a href="https://info.flagcounter.com/rfZ5"><img src="https://s01.flagcounter.com/count2/rfZ5/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>

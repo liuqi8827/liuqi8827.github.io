@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "刘奇"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "刘奇"
 description              : &description "personal description"
 url                      : https://liuqi8827.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,8 +25,8 @@ author:
   name             : "刘奇"
   pronouns         : # example: "she/her"  
   bio              : "强化学习，具身智能，大模型"
-  location         : "沈阳，中国"
-  employer         : "东北大学"
+  location         : "沈阳"
+  employer         : "东北大学，中国"
   uri              : # URL
   email            : "liuqi@mail.neu.edu.cn" 
 

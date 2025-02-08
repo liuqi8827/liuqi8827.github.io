@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-刘奇，东北大学机器人科学与工程学院特聘副研究员。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位。研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议上发表论文20余篇，其中第一作者论文10篇。担任多个国际期刊和会议 (IEEE TNNLS, IEEE TITS, IEEE TCYB, IEEE TIV, ICRA等) 审稿人。
+刘奇，东北大学机器人科学与工程学院特聘副研究员。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位（导师：\href{https://faculty.hitsz.edu.cn/liyanjie}{李衍杰教授}，\href{https://faculty.hitsz.edu.cn/louyunjiang}{楼云江教授}），2019年获哈尔滨工业大学控制科学与工程专业硕士学位（导师：\href{https://homepage.hit.edu.cn/dixiaoguang}{遆晓光教授}，\href{https://homepage.hit.edu.cn/majie?lang=zh}{马杰教授}）。研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议上发表论文20余篇，其中第一作者论文10篇。担任多个国际期刊和会议 (IEEE TNNLS/TITS/TCYB/TIV, ICRA等) 审稿人。
 
 ## <font color="blue">研究方向</font>
 主要研究方向为深度强化学习算法和具身智能：

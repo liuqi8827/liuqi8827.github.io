@@ -73,10 +73,10 @@ redirect_from:
 <video controls width="400" height="300">
   <source src="../images/密集行人环境下基于深度强化学习的机器人导航仿真环境.mp4" type="video/mp4">
 </video>
-<img src="../images/outdoor压缩.gif" alt="" width="400" height="300">
+<img src="../images/outdoor压缩.gif" alt="" width="400" height="400">
 
 - 基于深度安全强化学习的无人驾驶
-<video controls width="400" height="300">
+<video controls width="400" height="400">
   <source src="../images/基于深度安全强化学习无人驾驶.mp4" type="video/mp4">
 </video>
 

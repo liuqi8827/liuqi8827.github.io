@@ -80,6 +80,14 @@ redirect_from:
   <source src="../images/基于深度安全强化学习无人驾驶.mp4" type="video/mp4">
 </video>
 
+- 智能仓储环境下基于多智能体深度强化学习的任务分配和路径规划
+<video controls width="400" height="300">
+  <source src="../images/智能仓储_刘奇.mp4" type="video/mp4">
+</video>
+
+- 城市环境下基于激光雷达的无人车定位与建图
+<img src="../images/城市环境下基于激光雷达的无人车定位与建图_刘奇.png" alt="" width="300" height="400">
+
 
 ## <font color="blue">学术兼职</font>
 担任多个国际期刊和会议审稿人：

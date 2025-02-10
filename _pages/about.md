@@ -86,7 +86,8 @@ redirect_from:
 </video>
 
 - 城市环境下基于激光雷达的无人车定位与建图
-<img src="../images/城市环境下基于激光雷达的无人车定位与建图_刘奇.png" alt="" width="300" height="400">
+
+![城市环境下基于激光雷达的无人车定位与建图](../images/城市环境下基于激光雷达的无人车定位与建图_刘奇.png){width=300 height=400}
 
 
 ## <font color="blue">学术兼职</font>

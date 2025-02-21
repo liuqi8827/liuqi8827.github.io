@@ -29,12 +29,13 @@ redirect_from:
 - 2018.07 - 2018.12：[地平线机器人(Horizon Robotics)](https://www.horizon.auto/)，无人驾驶研究实习生，研究室外无人车定位与建图算法(SLAM)。      
   Mentor：徐斌峰，地平线机器人算法工程师。
 
-## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作）</span> </font>
+## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作, <sup>*</sup>共同通讯）</span> </font>
 - **Qi Liu**, Yanjie Li, Xiongtao Shi, Ke Lin, Yuecheng Liu, Yunjiang Lou. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR 1区，中科院大类1区，IF: 10.4，TOP期刊)
 - **Qi Liu**, Yanjie Li, Yuecheng Liu，Ke Lin，Jianqi Gao, Yunjiang Lou. Data Efficient Deep Reinforcement Learning With Action-Ranked Temporal Difference Learning, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024. (JCR 1区，中科院大类2区，IF: 5.3)
 - **Qi Liu**, Yanjie Li, Shiyu Chen, Ke Lin, Xiongtao Shi, Yunjiang Lou. Distributional Reinforcement Learning With Epistemic and Aleatoric Uncertainty Estimation. Information Sciences, 2023. (JCR 1区，中科院大类1区，IF: 8.1，TOP期刊)
 - Zheng Zhang<sup>#</sup>, **Qi Liu<sup>#</sup>**, Yanjie Li, Ke Lin, Linyu Li. Safe Reinforcement Learning in Autonomous Driving With Epistemic Uncertainty Estimation. IEEE Transactions on Intelligent Transportation Systems, 2024. (JCR 1区，中科院大类1区，IF: 8.5，TOP期刊)
 - Pengbin Chen<sup>#</sup>, **Qi Liu<sup>#</sup>**, Yanjie Li, Shuaikang Ma. An Environmental-Complexity-Based Navigation Method Based on Hierarchical Deep Reinforcement Learning. 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024. (机器人顶会，CSRankings)
+- Jianqi Gao, Xizheng Pang, **Qi Liu<sup>*</sup>**, Yanjie Li<sup>*</sup>. Hierarchical Reinforcement Learning for Safe Mapless Navigation with Congestion Estimation. 2025 IEEE International Conference on Robotics and Automation (ICRA), 2025. (机器人顶会，CSRankings)
 - **Qi Liu**, Xiaoguang Di, Binfeng Xu. Autonomous Vehicle Self-localization in Urban Environments based on 3D Curvature Feature points – Monte Carlo Localization. Robotica, 2022. (JCR 3区，中科院大类3区，IF: 2.7)
 - **Qi Liu<sup>#</sup>**, Jingxiang Guo<sup>#</sup>, Zhongjian Qiao, Pengbin Chen, Jinxuan Zhu, Yanjie Li. Logarithmic Function Matters Policy Gradient Deep Reinforcement Learning. The Sixth International Conference on Distributed Artificial Intelligence (DAI), 2024.
 - Linyu Li<sup>#</sup>, **Qi Liu<sup>#</sup>**, Yanjie Li, Yongjin Mu, and Zheng Zhang. A Risk-sensitive Automatic Stock Trading Strategy Based on Deep Reinforcement Learning and Transformer. 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), 2024.

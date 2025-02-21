@@ -29,7 +29,7 @@ redirect_from:
 - 2018.07 - 2018.12：[地平线机器人(Horizon Robotics)](https://www.horizon.auto/)，无人驾驶研究实习生，研究室外无人车定位与建图算法(SLAM)。      
   Mentor：徐斌峰，地平线机器人算法工程师。
 
-## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作, <sup>*</sup>共同通讯）</span> </font>
+## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作, <sup>*</sup>通讯作者）</span> </font>
 - **Qi Liu**, Yanjie Li, Xiongtao Shi, Ke Lin, Yuecheng Liu, Yunjiang Lou. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR 1区，中科院大类1区，IF: 10.4，TOP期刊)
 - **Qi Liu**, Yanjie Li, Yuecheng Liu，Ke Lin，Jianqi Gao, Yunjiang Lou. Data Efficient Deep Reinforcement Learning With Action-Ranked Temporal Difference Learning, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024. (JCR 1区，中科院大类2区，IF: 5.3)
 - **Qi Liu**, Yanjie Li, Shiyu Chen, Ke Lin, Xiongtao Shi, Yunjiang Lou. Distributional Reinforcement Learning With Epistemic and Aleatoric Uncertainty Estimation. Information Sciences, 2023. (JCR 1区，中科院大类1区，IF: 8.1，TOP期刊)

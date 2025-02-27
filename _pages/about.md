@@ -9,6 +9,8 @@ redirect_from:
 
 刘奇，东北大学机器人科学与工程学院特聘副研究员。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang)），2019年获哈尔滨工业大学控制科学与工程专业硕士学位（导师：[遆晓光教授](https://homepage.hit.edu.cn/dixiaoguang)，[马杰教授](https://homepage.hit.edu.cn/majie?lang=zh)）。研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议上发表论文20余篇，其中第一作者论文10篇。担任多个国际期刊和会议 (IEEE TNNLS/TITS/TCYB/TIV, ICRA等) 审稿人。
 
+**Qi Liu**, an associate researcher at The Faculty of Robot Science and Engineering, Northeastern University, China. He earned his Ph.D. in Control Science and Engineering from Harbin Institute of Technology (Shenzhen) in 2024 (supervised by [Prof. Yanjie Li](https://faculty.hitsz.edu.cn/liyanjie) and [Prof. Yunjiang Lou](https://faculty.hitsz.edu.cn/louyunjiang)), and his M.S. in Control Science and Engineering from Harbin Institute of Technology in 2019 (supervised by [Prof. Xiaoguang Di](https://homepage.hit.edu.cn/dixiaoguang) and [Prof. Jie Ma](https://homepage.hit.edu.cn/majie?lang=zh)). His research focuses on deep reinforcement learning algorithms, embodied intelligence, and large-scale models. He has published over 20 papers in renowned international journals and conferences, including 10 as the first author. He also serves as a reviewer for several prestigious international journals and conferences (e.g., IEEE TNNLS/TITS/TCYB/TIV, ICRA).
+
 ## <font color="blue">研究方向</font>
 主要研究方向为深度强化学习算法和具身智能：
 - **深度强化学习算法**：如价值函数估计、智能体探索、安全强化学习等
@@ -16,8 +18,17 @@ redirect_from:
 - **大语言模型对齐**：如安全价值对齐、人类反馈强化学习等
 - **具身智能**：基于学习（深度强化学习、模仿学习和大模型等）的各类智能机器人控制、决策和协作，如：四足机械狗的步态和技能学习、机械臂和多指灵巧手的操作、双足人形机器人全身控制、轮式机器人和无人驾驶导航。
 
+## <font color="blue">Research Interests</font>
+His primary research interests include deep reinforcement learning algorithms and embodied intelligence:
+- **Deep Reinforcement Learning Algorithms**: Value function estimation, agent exploration, safe reinforcement learning, etc.
+- **Multi-Agent Deep Reinforcement Learning Algorithms**: Multi-agent coperation, credit assignment, etc.
+- **Large Language Model Alignment**: Safe value alignment, reinforcement learning from human feedback, etc.
+- **Embodied Intelligence**: Learning-based (deep reinforcement learning, imitation learning, and large-scale models) control, decision-making, and collaboration for various intelligent robots, such as gait and skill learning for quadruped robots, manipulation with robotic arms and multi-fingered dexterous hands, whole-body control of bipedal humanoid robots, and navigation for wheeled robots and autonomous vehicles.
+- 
 **<font color="red">欢迎对上述方向感兴趣的学生（本硕博）和业界朋友联系，进行科研合作（可远程）。</font>**           
 **<font color="red">也欢迎对深度强化学习在其他领域的应用（如：智能电网、推荐系统、自动股票交易等）感兴趣的学生和业界朋友联系，本人也做过相关的研究。</font>**      
+**<font color="red">Students (undergraduate, master, and PhD) and industry professionals who are interested in the aforementioned research directions are warmly welcome to reach out for potential research collaborations (remote collaboration is available).</font>**  
+**<font color="red">Additionally, students and industry professionals interested in the application of deep reinforcement learning in other fields (e.g., smart grids, recommendation systems, automated stock trading, etc.) are also encouraged to contact me, as I have conducted related research in these areas.</font>**
 
 ## <font color="blue">研究经历</font>
 - 2024.08 - 2024.11：[北京星动纪元科技有限公司(ROBOTERA)](https://www.robotera.com/)，具身智能研究实习生，研究基于深度强化学习的机械臂和5指灵巧手控制。    
@@ -28,6 +39,16 @@ redirect_from:
   Mentor：[张家兴](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en)，IDEA研究院讲席科学家。
 - 2018.07 - 2018.12：[地平线机器人(Horizon Robotics)](https://www.horizon.auto/)，无人驾驶研究实习生，研究室外无人车定位与建图算法(SLAM)。      
   Mentor：徐斌峰，地平线机器人算法工程师。
+
+## <font color="blue">Research Experience</font>
+- 2024.08 - 2024.11：[ROBOTERA, Inc.](https://www.robotera.com/en/), Embodied Intelligence Research Intern @Algorithm Team, Research on the control of robot arms and dexterous hands based on deep reinforcement learning.
+Mentor: \href{https://scholar.google.com/citations?user=rc9jIf0AAAAJ&hl=en}{Jianyu Chen}, Assistant Professor at Institute for Interdisciplinary Information Sciences, Tsinghua University.
+- 2024.03 - 2024.06：[Zhipu AI, Inc.](https://www.zhipuai.cn/en/), LLM Research Intern @LLM RL Team, Research on LLM Code Generation and its improvement.
+Mentor：[Yilin Niu](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh-CN), Leader of LLM RLHF Team at Zhipu AI.
+- 2023.08 - 2024.02：[International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/), LLM Research Intern @LLM RL Team, Research on LLM Alignment (RLHF) and its improvement.
+Mentor：\href{https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en}{Jiaxing Zhang}, Chair Professorship at IDEA.  
+- 2018.07 - 2018.12：[Horizon Robotics, Inc.](https://www.horizon.auto/), Autonomous Driving @SLAM Team, Research on the localization and mapping of autonomous vehicles.
+Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 
 ## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作, <sup>*</sup>通讯作者）</span> </font>
 - **Qi Liu**, Yanjie Li, Xiongtao Shi, Ke Lin, Yuecheng Liu, Yunjiang Lou. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR 1区，中科院大类1区，IF: 10.4，TOP期刊)

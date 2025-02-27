@@ -24,7 +24,7 @@ His primary research interests include deep reinforcement learning algorithms an
 - **Multi-Agent Deep Reinforcement Learning Algorithms**: Multi-agent coperation, credit assignment, etc.
 - **Large Language Model Alignment**: Safe value alignment, reinforcement learning from human feedback, etc.
 - **Embodied Intelligence**: Learning-based (deep reinforcement learning, imitation learning, and large-scale models) control, decision-making, and collaboration for various intelligent robots, such as gait and skill learning for quadruped robots, manipulation with robotic arms and multi-fingered dexterous hands, whole-body control of bipedal humanoid robots, and navigation for wheeled robots and autonomous vehicles.
-- 
+
 **<font color="red">欢迎对上述方向感兴趣的学生（本硕博）和业界朋友联系，进行科研合作（可远程）。</font>**           
 **<font color="red">也欢迎对深度强化学习在其他领域的应用（如：智能电网、推荐系统、自动股票交易等）感兴趣的学生和业界朋友联系，本人也做过相关的研究。</font>**      
 **<font color="red">Students (undergraduate, master, and PhD) and industry professionals who are interested in the aforementioned research directions are warmly welcome to reach out for potential research collaborations (remote collaboration is available).</font>**  

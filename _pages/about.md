@@ -44,12 +44,16 @@ His primary research interests include deep reinforcement learning algorithms an
 
 ## <font color="blue">Research Experience</font>
 - 2024.08 - 2024.11：[ROBOTERA, Inc.](https://www.robotera.com/en/), Embodied Intelligence Research Intern @Algorithm Team, Research on the control of robot arms and dexterous hands based on deep reinforcement learning.
+
   Mentor: [Jianyu Chen](https://scholar.google.com/citations?user=rc9jIf0AAAAJ&hl=en), Assistant Professor at Institute for Interdisciplinary Information Sciences, Tsinghua University.
 - 2024.03 - 2024.06：[Zhipu AI, Inc.](https://www.zhipuai.cn/en/), LLM Research Intern @LLM RLHF Team, Research on LLM Code Generation and its improvement.
+
   Mentor：[Yilin Niu](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh-CN), Leader of LLM RLHF Team at Zhipu AI.
 - 2023.08 - 2024.02：[International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/), LLM Research Intern @LLM RL Team, Research on LLM Alignment (RLHF) and its improvement.
+
   Mentor：[Jiaxing Zhang](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en), Chair Professorship at IDEA.  
 - 2018.07 - 2018.12：[Horizon Robotics, Inc.](https://www.horizon.auto/), Autonomous Driving @SLAM Team, Research on the localization and mapping of autonomous vehicles.
+
   Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 
 ## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作, <sup>*</sup>通讯作者）</span> </font>

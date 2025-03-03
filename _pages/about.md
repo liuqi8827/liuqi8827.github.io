@@ -50,14 +50,21 @@ Mentor: [张家兴](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en
 Mentor: 徐斌峰，地平线机器人算法工程师。
 
 ## <font color="blue">Research Experience</font>
-- 2024.08 - 2024.11：[ROBOTERA, Inc.](https://www.robotera.com/en/), Embodied Intelligence Research Intern @Algorithm Team, Research on the control of robot arms and dexterous hands based on deep reinforcement learning. \
-  Mentor: [Jianyu Chen](https://scholar.google.com/citations?user=rc9jIf0AAAAJ&hl=en), Assistant Professor at Institute for Interdisciplinary Information Sciences, Tsinghua University.
-- 2024.03 - 2024.06：[Zhipu AI, Inc.](https://www.zhipuai.cn/en/), LLM Research Intern @LLM RLHF Team, Research on LLM Code Generation and its improvement. \
-  Mentor：[Yilin Niu](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh-CN), Leader of LLM RLHF Team at Zhipu AI.
-- 2023.08 - 2024.02：[International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/), LLM Research Intern @LLM RLHF Team, Research on LLM Alignment (RLHF) and its improvement. \
-  Mentor：[Jiaxing Zhang](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en), Chair Professorship at IDEA.  
-- 2018.07 - 2018.12：[Horizon Robotics, Inc.](https://www.horizon.auto/), Autonomous Driving @SLAM Team, Research on the localization and mapping of autonomous vehicles. \
-  Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
+**[ROBOTERA, Inc.](https://www.robotera.com/en/) (Beijing)** &emsp; _08/2024 - 11/2024_  
+Topic: Embodied Intelligence Research Intern @Algorithm Team, Research on the control of robot arms and dexterous hands based on deep reinforcement learning. \
+Mentor: [Jianyu Chen](https://scholar.google.com/citations?user=rc9jIf0AAAAJ&hl=en), Assistant Professor at Institute for Interdisciplinary Information Sciences, Tsinghua University.
+
+**[Zhipu AI, Inc.](https://www.zhipuai.cn/en/) (Beijing)** &emsp; _03/2024 - 06/2024_  
+Topic: LLM Research Intern @LLM RLHF Team, Research on LLM Code Generation and its improvement. \
+Mentor: [Yilin Niu](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh-CN), Leader of LLM RLHF Team at Zhipu AI.
+
+**[International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/) (Shenzhen)** &emsp; _08/2023 - 02/2024_  
+Topic: LLM Research Intern @LLM RLHF Team, Research on LLM Alignment (RLHF) and its improvement. \
+Mentor: [张家兴](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en)，IDEA研究院讲席科学家。
+
+**[Horizon Robotics, Inc.](https://www.horizon.auto/) (Shanghai)** &emsp; _07/2018 - 12/2018_  
+Topic: Autonomous Driving @SLAM Team, Research on the localization and mapping of autonomous vehicles. \
+Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 
 ## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作, <sup>*</sup>通讯作者）</span> </font>
 - **Qi Liu**, Yanjie Li, Xiongtao Shi, Ke Lin, Yuecheng Liu, Yunjiang Lou. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR 1区，中科院大类1区，IF: 10.4，TOP期刊)

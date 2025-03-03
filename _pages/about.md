@@ -33,7 +33,7 @@ His primary research interests include deep reinforcement learning algorithms an
 **<font color="red">Additionally, students and industry professionals interested in the application of deep reinforcement learning in other fields (e.g., smart grids, recommendation systems, automated stock trading, etc.) are also encouraged to contact me, as I have conducted related research in these areas.</font>**
 
 ## <font color="blue">研究经历</font>
-**[北京星动纪元科技有限公司(ROBOTERA)](https://www.robotera.com/)** &emsp; 北京 &nbsp; 08/2024 - 11/2024 \  
+**[北京星动纪元科技有限公司(ROBOTERA)](https://www.robotera.com/)** &emsp; 北京 &nbsp; 08/2024 - 11/2024    
 研究方向: 具身智能研究实习生，基于深度强化学习的机械臂和5指灵巧手控制。 \
 Mentor: [陈建宇](https://scholar.google.com/citations?user=rc9jIf0AAAAJ&hl=en)，清华大学交叉信息研究院助理教授。  
 

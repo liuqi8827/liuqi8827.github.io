@@ -60,7 +60,7 @@ Mentor: [Yilin Niu](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh
 
 **[International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/) (Shenzhen)** &emsp; _08/2023 - 02/2024_  
 Topic: LLM Research Intern @LLM RLHF Team, Research on LLM Alignment (RLHF) and its improvement. \
-Mentor: [Jiaxing Zhang](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en), Chair Professorship at IDEA.
+Mentor: [Jiaxing Zhang](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en), Chair Professor at IDEA.
 
 **[Horizon Robotics, Inc.](https://www.horizon.auto/) (Shanghai Research Center)** &emsp; _07/2018 - 12/2018_  
 Topic: Autonomous Driving @SLAM Team, Research on the localization and mapping of autonomous vehicles. \

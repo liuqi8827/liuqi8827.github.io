@@ -45,7 +45,7 @@ Mentor: [牛艺霖](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh
 研究方向: LLM研究实习生，研究LLM对齐(Reinforcement Learning from Human Feedback, RLHF)及其改进。 \
 Mentor: [张家兴](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en)，IDEA研究院讲席科学家。
 
-**[地平线机器人(Horizon Robotics)](https://www.horizon.auto/)** &emsp; 上海自动驾驶研发中心 &nbsp; 07/2018 - 12/2018    
+**[地平线机器人(Horizon Robotics)](https://www.horizon.auto/)** &emsp; 上海自动驾驶研发中心 &nbsp; 07/2018 - 12/2018             
 研究方向: 无人驾驶研究实习生，研究室外无人车定位与建图算法(SLAM)。 \
 Mentor: 徐斌峰，地平线机器人算法工程师。
 
@@ -62,7 +62,7 @@ Mentor: [Yilin Niu](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh
 Topic: LLM Research Intern @LLM RLHF Team, Research on LLM Alignment (RLHF) and its improvement. \
 Mentor: [Jiaxing Zhang](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en), Chair Professor at IDEA.
 
-**[Horizon Robotics, Inc.](https://www.horizon.auto/)** &emsp; Shanghai Research Center &nbsp; 07/2018 - 12/2018     
+**[Horizon Robotics, Inc.](https://www.horizon.auto/)** &emsp; Shanghai Research Center &nbsp; 07/2018 - 12/2018               
 Topic: Autonomous Driving @SLAM Team, Research on the localization and mapping of autonomous vehicles. \
 Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 

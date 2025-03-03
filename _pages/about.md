@@ -36,15 +36,12 @@ His primary research interests include deep reinforcement learning algorithms an
 **[北京星动纪元科技有限公司](https://www.robotera.com/)** &emsp; 北京 &nbsp; 08/2024 - 11/2024    
 研究方向：具身智能研究实习生，基于深度强化学习的机械臂和5指灵巧手控制。 \
 Mentor：[陈建宇](https://scholar.google.com/citations?user=rc9jIf0AAAAJ&hl=en)，清华大学交叉信息研究院助理教授。  
-
 **[北京智谱AI](https://www.zhipuai.cn/)** &emsp; 北京 &nbsp; 03/2024 - 06/2024     
 研究方向：大语言模型(Large Language Model, LLM) 研究实习生，研究基于大模型的代码生成。 \
 Mentor：[牛艺霖](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh-CN)，智谱AI大模型对齐(RLHF)组负责人。  
-
 **[粤港澳大湾区数字经济研究院(IDEA)](https://www.idea.edu.cn/)** &emsp; 深圳 &nbsp; 08/2023 - 02/2024     
 研究方向：LLM研究实习生，研究LLM对齐(Reinforcement Learning from Human Feedback, RLHF)及其改进。 \
 Mentor：[张家兴](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en)，IDEA研究院讲席科学家。
-
 **[地平线机器人](https://www.horizon.auto/)** &emsp; 上海自动驾驶研发中心 &nbsp; 07/2018 - 12/2018             
 研究方向：无人驾驶研究实习生，研究室外无人车定位与建图算法(SLAM)。 \
 Mentor：徐斌峰，地平线机器人算法工程师。
@@ -53,15 +50,12 @@ Mentor：徐斌峰，地平线机器人算法工程师。
 **[ROBOTERA, Inc.](https://www.robotera.com/en/)** &emsp; Beijing &nbsp; 08/2024 - 11/2024    
 Topic: Embodied Intelligence Research Intern @Algorithm Team, Research on the control of robot arms and dexterous hands based on deep reinforcement learning. \
 Mentor: [Jianyu Chen](https://scholar.google.com/citations?user=rc9jIf0AAAAJ&hl=en), Assistant Professor at Institute for Interdisciplinary Information Sciences, Tsinghua University.
-
 **[Zhipu AI, Inc.](https://www.zhipuai.cn/en/)** &emsp; Beijing &nbsp; 03/2024 - 06/2024    
 Topic: LLM Research Intern @LLM RLHF Team, Research on LLM Code Generation and its improvement. \
 Mentor: [Yilin Niu](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh-CN), Leader of LLM RLHF Team at Zhipu AI.
-
 **[International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/)** &emsp; Shenzhen &nbsp; 08/2023 - 02/2024       
 Topic: LLM Research Intern @LLM RLHF Team, Research on LLM Alignment (RLHF) and its improvement. \
 Mentor: [Jiaxing Zhang](https://scholar.google.com/citations?user=ozXuhOUAAAAJ&hl=en), Chair Professor at IDEA.
-
 **[Horizon Robotics, Inc.](https://en.horizon.auto/)** &emsp; Shanghai Research Center &nbsp; 07/2018 - 12/2018               
 Topic: Autonomous Driving @SLAM Team, Research on the localization and mapping of autonomous vehicles. \
 Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.

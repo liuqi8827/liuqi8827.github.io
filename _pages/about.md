@@ -102,7 +102,10 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
   <source src="../images/视频3.mp4" type="video/mp4">
 </video>
 
-- 基于深度安全强化学习的无地图机器人导航
+- 基于分层深度安全强化学习的无地图机器人导航
+<video controls width="300" height="350">
+  <source src="../images/ICRA25_1434_VI_fi.mp4" type="video/mp4">
+</video>
 <video controls width="300" height="350">
   <source src="../images/视频7压缩.mp4" type="video/mp4">
 </video>

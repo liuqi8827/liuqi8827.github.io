@@ -89,17 +89,17 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
   <source src="../images/四足机械狗控制.mp4" type="video/mp4">
 </video>
 
-- 双足人形机器人控制
-<video controls width="300" height="350">
-  <source src="../images/双足人形机器人控制.mp4" type="video/mp4">
-</video>
-
 - 基于深度强化学习的机械臂和多指灵巧手操作
 <video controls width="400" height="300">
   <source src="../images/视频1.mp4" type="video/mp4">
 </video>
 <video controls width="400" height="300">
   <source src="../images/视频3.mp4" type="video/mp4">
+</video>
+
+- 双足人形机器人控制
+<video controls width="300" height="350">
+  <source src="../images/双足人形机器人控制.mp4" type="video/mp4">
 </video>
 
 - 基于分层深度安全强化学习的无地图机器人导航

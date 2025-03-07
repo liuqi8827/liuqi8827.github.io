@@ -84,8 +84,6 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. submitted to IROS2025.
 - 在审论文：IEEE TNNLS, IEEE TETC, IROS2025*2, KBS
 
-Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, Qi Liu, Xiang Li
-
 ## <font color="blue">具身智能示例（部分）</font>
 - 复杂地形环境下基于分层强化学习的四足机器人足球控制
 <video controls width="400" height="300">

@@ -82,7 +82,7 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - **Qi Liu<sup>#</sup>**, Jingxiang Guo<sup>#</sup>, Sixi Lin, Shuaikang Ma, Jinxuan Zhu, Yanjie Li. MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion. arXiv preprint arXiv:2408.13759
 - **Qi Liu**, Jianqi Gao, et al. Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective. arXiv preprint arXiv:2408.13750. submitted to IROS2025.
 - Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. submitted to IROS2025.
-- 在审论文：IEEE TNNLS, IEEE TETC, IROS2025*2, KBS
+- In Peer Review: IEEE TNNLS, IEEE TETC, IROS2025*2, KBS
 
 ## <font color="blue">具身智能示例（部分）</font>
 - 复杂地形环境下基于分层强化学习的四足机器人足球控制

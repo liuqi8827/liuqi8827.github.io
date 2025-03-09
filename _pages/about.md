@@ -80,8 +80,8 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - **Qi Liu**, Yanjie Li, Yuecheng Liu, Meiling Chen, Shaohua Lv and Yunhong Xu. Exploration via Distributional Reinforcement Learning with Epistemic and Aleatoric Uncertainty Estimation. 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE), 2021.
 - **Qi Liu**, Yanjie Li, Lintao Liu. A 3D Simulation Environment and Navigation Approach for Robot Navigation via Deep Reinforcement Learning in Dense Pedestrian Environment. 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), 2020.
 - **Qi Liu<sup>#</sup>**, Jingxiang Guo<sup>#</sup>, Sixi Lin, Shuaikang Ma, Jinxuan Zhu, Yanjie Li. MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion. arXiv preprint arXiv:2408.13759
-- **Qi Liu**, Jianqi Gao, et al. Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective. arXiv preprint arXiv:2408.13750. submitted to IROS2025.
-- Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. submitted to IROS2025.
+- **Qi Liu**, Jianqi Gao, et al. Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective. arXiv preprint arXiv:2408.13750. submitted to IROS2025. (机器人顶会，CSRankings)
+- Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. submitted to IROS2025. (机器人顶会，CSRankings)
 - In Peer Review: IEEE TNNLS, IEEE TETC, IROS2025*2, KBS
 
 ## <font color="blue">具身智能示例（部分）</font>

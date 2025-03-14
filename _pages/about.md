@@ -122,6 +122,11 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 </video>
 <img src="../images/outdoor压缩.gif" alt="" width="400" height="400">
 
+- 复杂场景下基于轨迹规划的无人驾驶泊车
+<video controls width="400" height="300">
+  <source src="../images/AD_planning.mp4" type="video/mp4">
+</video>
+
 - 基于深度安全强化学习的无人驾驶
 <video controls width="400" height="300">
   <source src="../images/基于深度安全强化学习无人驾驶.mp4" type="video/mp4">

@@ -34,11 +34,11 @@ His primary research interests include deep reinforcement learning algorithms an
 **<font color="purple">Email：liuqi@mail.neu.edu.cn</font>**
 
 ## <font color="blue">研究经历</font>
-**[北京星动纪元科技有限公司](https://www.robotera.com/)** &emsp; 北京 &nbsp; 08/2024 - 11/2024    
+**[星动纪元](https://www.robotera.com/)** &emsp; 北京 &nbsp; 08/2024 - 11/2024    
 研究方向：具身智能研究实习生，基于深度强化学习的机械臂和5指灵巧手控制。 \
 Mentor：[陈建宇](https://scholar.google.com/citations?user=rc9jIf0AAAAJ&hl=en)，清华大学交叉信息研究院助理教授。   
 
-**[北京智谱AI](https://www.zhipuai.cn/)** &emsp; 北京 &nbsp; 03/2024 - 06/2024     
+**[智谱AI](https://www.zhipuai.cn/)** &emsp; 北京 &nbsp; 03/2024 - 06/2024     
 研究方向：大语言模型(Large Language Model, LLM) 研究实习生，研究基于大模型的代码生成。 \
 Mentor：[牛艺霖](https://scholar.google.com/citations?user=O52EyKsAAAAJ&hl=zh-CN)，智谱AI大模型对齐(RLHF)组负责人。  
 

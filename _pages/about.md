@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-刘奇，东北大学机器人科学与工程学院特聘副研究员。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang)），2019年获哈尔滨工业大学控制科学与工程专业硕士学位（导师：[遆晓光教授](https://homepage.hit.edu.cn/dixiaoguang)，[马杰教授](https://homepage.hit.edu.cn/majie?lang=zh)）。研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议上发表论文20余篇，其中第一作者或通讯作者论文10余篇。担任多个国际期刊和会议 (IEEE TNNLS/TITS/TCYB/TIV, ICRA, IROS等) 审稿人。
+刘奇，东北大学机器人科学与工程学院特聘副研究员。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang)），2019年获哈尔滨工业大学控制科学与工程专业硕士学位（导师：[遆晓光教授](https://homepage.hit.edu.cn/dixiaoguang)，[马杰教授](https://homepage.hit.edu.cn/majie?lang=zh)）。研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议上发表论文20余篇，其中第一或通讯作者论文10余篇。先后在四家具身智能和大模型公司从事研究工作，中国人工智能学会具身智能专委会会员，担任多个国际期刊和会议 (IEEE TNNLS/TITS/TCYB/TIV, ICRA, IROS等) 审稿人。
 
 Qi Liu is currently an Associate Researcher at the Faculty of Robot Science and Engineering, Northeastern University, China. He received the Ph.D. degree in Control Science and Engineering from Harbin Institute of Technology (Shenzhen) in 2024 (advised by [Prof. Yanjie Li](https://faculty.hitsz.edu.cn/liyanjie) and [Prof. Yunjiang Lou](https://faculty.hitsz.edu.cn/louyunjiang)), and the M.S. degree in Control Science and Engineering from Harbin Institute of Technology in 2019 (advised by [Prof. Xiaoguang Di](https://homepage.hit.edu.cn/dixiaoguang) and [Prof. Jie Ma](https://homepage.hit.edu.cn/majie?lang=zh)). His research focuses on deep reinforcement learning algorithms, embodied intelligence, and large language models. He has published over 20 papers in renowned international journals and conferences, including over 10 papers as the first or corresponding author. He also serves as a reviewer for several prestigious international journals and conferences (e.g., IEEE TNNLS/TITS/TCYB/TIV, ICRA, IROS).
 
@@ -79,10 +79,11 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - Linyu Li<sup>#</sup>, **Qi Liu<sup>#</sup>**, Yanjie Li, Yongjin Mu, and Zheng Zhang. A Risk-sensitive Automatic Stock Trading Strategy Based on Deep Reinforcement Learning and Transformer. 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), 2024.
 - **Qi Liu**, Yanjie Li, Yuecheng Liu, Meiling Chen, Shaohua Lv and Yunhong Xu. Exploration via Distributional Reinforcement Learning with Epistemic and Aleatoric Uncertainty Estimation. 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE), 2021.
 - **Qi Liu**, Yanjie Li, Lintao Liu. A 3D Simulation Environment and Navigation Approach for Robot Navigation via Deep Reinforcement Learning in Dense Pedestrian Environment. 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), 2020.
-- **Qi Liu<sup>#</sup>**, Jingxiang Guo<sup>#</sup>, Sixi Lin, Shuaikang Ma, Jinxuan Zhu, Yanjie Li. MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion. arXiv preprint arXiv:2408.13759
+- **Qi Liu<sup>#</sup>**, Jingxiang Guo<sup>#</sup>, Sixi Lin, Shuaikang Ma, Jinxuan Zhu, Yanjie Li. MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion. arXiv preprint arXiv:2408.13759, submitted to ICML 2025 New in ML workshop.
 - **Qi Liu**, Jianqi Gao, et al. Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective. arXiv preprint arXiv:2408.13750. submitted to IROS2025. (机器人顶会，CSRankings)
 - Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. submitted to IROS2025. (机器人顶会，CSRankings)
-- In Peer Review: IEEE TNNLS, IEEE TETC, IROS2025*2, KBS
+- Yuanhao Chen, **Qi Liu<sup>*</sup>**, Pengbin Chen, Zhongjian Qiao, Yanjie Li<sup>*</sup>. Sample-Efficient Policy Constraint Offline Deep Reinforcement Learning based on Sample Filtering. submitted to Neural Networks.
+- In Peer Review: IEEE TNNLS, IEEE TETC, IROS2025*2, KBS, NN
 
 ## <font color="blue">具身智能示例（部分）</font>
 - 复杂地形环境下基于分层强化学习的四足机器人足球控制

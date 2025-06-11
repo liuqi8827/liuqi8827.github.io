@@ -15,6 +15,8 @@ description              : &description "personal description"
 url                      : https://liuqi8827.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
+# add by liuqi
+last_modified_at: false
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -246,6 +248,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      # add by liuqi
+      last_modified_at: false  # 添加这行禁用更新时间
   # _teaching
   - scope:
       path: ""

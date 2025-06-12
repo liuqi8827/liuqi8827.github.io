@@ -86,6 +86,15 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - In Peer Review: IEEE TNNLS, IEEE TETC, IROS2025*2, KBS, NN
 
 ## <font color="blue">具身智能示例（部分）</font>
+- 双足人形机器人控制
+<video controls width="400" height="300">
+  <source src="../images/Humanoid_Fall_Recovery.mp4" type="video/mp4">
+</video>
+- 双足人形机器人控制
+<video controls width="300" height="350">
+  <source src="../images/双足人形机器人控制.mp4" type="video/mp4">
+</video>
+
 - 复杂地形环境下基于分层强化学习的四足机器人足球控制
 <video controls width="400" height="300">
   <source src="../images/IROS2025_Compressed.mp4" type="video/mp4">
@@ -102,11 +111,6 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 </video>
 <video controls width="400" height="300">
   <source src="../images/视频3.mp4" type="video/mp4">
-</video>
-
-- 双足人形机器人控制
-<video controls width="300" height="350">
-  <source src="../images/双足人形机器人控制.mp4" type="video/mp4">
 </video>
 
 - 基于分层深度安全强化学习的无地图机器人导航

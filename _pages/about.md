@@ -90,7 +90,6 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 <video controls width="400" height="300">
   <source src="../images/Humanoid_Fall_Recovery.mp4" type="video/mp4">
 </video>
-- 双足人形机器人控制
 <video controls width="300" height="350">
   <source src="../images/双足人形机器人控制.mp4" type="video/mp4">
 </video>

@@ -83,7 +83,7 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - **Qi Liu**, Jianqi Gao, et al. Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective. arXiv preprint arXiv:2408.13750.
 - Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning.
 - Yuanhao Chen, **Qi Liu<sup>*</sup>**, Pengbin Chen, Zhongjian Qiao, Yanjie Li<sup>*</sup>. Sample-Efficient Policy Constraint Offline Deep Reinforcement Learning based on Sample Filtering. submitted to Neural Networks.
-- In Peer Review: IEEE TNNLS, IEEE TETC, IROS2025*2, KBS, NN
+- In Peer Review: IEEE TNNLS, IEEE TETC, KBS, NN
 
 ## <font color="blue">具身智能示例（部分）</font>
 - 双足人形机器人控制

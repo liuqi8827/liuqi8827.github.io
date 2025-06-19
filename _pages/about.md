@@ -148,8 +148,8 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 
 ## <font color="blue">学术兼职</font>
 - 中国自动化学会自适应动态规划与强化学习专业委员会会员
-- 中国人工智能学会具身智能专委会会员
-- 中国指挥与控制学会智能控制与系统专委会会员
+- 中国人工智能学会具身智能专业委员会会员
+- 中国指挥与控制学会智能控制与系统专业委员会会员
 
 担任多个国际期刊和会议审稿人：
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)

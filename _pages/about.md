@@ -68,7 +68,7 @@ Topic: Autonomous Driving @SLAM Team, Research on the localization and mapping o
 Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 
 ## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作, <sup>*</sup>通讯作者）</span> </font>
-- **Qi Liu<sup>#</sup>**, Jingxiang Guo<sup>#</sup>, Sixi Lin, Shuaikang Ma, Jinxuan Zhu, Yanjie Li. MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion. International Conference on Machine Learning (ICML) Workshop, 2025.
+- **Qi Liu<sup>#</sup>**, Jingxiang Guo<sup>#</sup>, Sixi Lin, Shuaikang Ma, Jinxuan Zhu, Yanjie Li. MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion. International Conference on Machine Learning (ICML) Workshop, 2025. (CSRankings)
 - **Qi Liu**, Yanjie Li, Xiongtao Shi, Ke Lin, Yuecheng Liu, Yunjiang Lou. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR 1区，中科院大类1区，IF: 10.4，TOP期刊)
 - **Qi Liu**, Yanjie Li, Yuecheng Liu，Ke Lin，Jianqi Gao, Yunjiang Lou. Data Efficient Deep Reinforcement Learning With Action-Ranked Temporal Difference Learning, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024. (JCR 1区，中科院大类2区，IF: 6.5)
 - **Qi Liu**, Yanjie Li, Shiyu Chen, Ke Lin, Xiongtao Shi, Yunjiang Lou. Distributional Reinforcement Learning With Epistemic and Aleatoric Uncertainty Estimation. Information Sciences, 2023. (JCR 1区，中科院大类1区，IF: 8.1，TOP期刊)

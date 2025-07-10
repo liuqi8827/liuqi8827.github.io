@@ -155,6 +155,7 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC: Systems)
+- IEEE Robotics and Automation Letters (RAL)
 - IEEE Transactions on Intelligent Vehicles (TIV)
 - IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)

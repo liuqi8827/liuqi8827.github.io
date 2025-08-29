@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-刘奇，东北大学机器人科学与工程学院特聘副研究员（[学校个人主页](http://faculty.neu.edu.cn/liuqi/zh_CN/index.htm))。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang))，研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议上发表论文30余篇，其中第一或通讯作者论文10余篇。主持国家自然科学基金青年项目等纵横向项目3项，参与国家自然科学联合/面上基金等项目多项。先后在四家具身智能和大模型公司从事研究工作，中国自动化学会/人工智能学会/指挥与控制学会会员，担任多个国际期刊和会议 (IEEE TNNLS, TITS, TCYB, SMC, RAL, TIV, INS, KBS, ICRA, IROS等) 审稿人。指导学生获奖省部级及以上科技竞赛和创新创业大赛3项。
+刘奇，东北大学机器人科学与工程学院特聘副研究员（[学校个人主页](http://faculty.neu.edu.cn/liuqi/zh_CN/index.htm))。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang))，研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议上发表论文30余篇，其中第一或通讯作者论文10余篇。主持国家自然科学基金青年项目等纵向和横向项目3项，参与国家自然科学联合和面上基金等项目多项。先后在四家具身智能和大模型公司从事研究工作，中国自动化学会/人工智能学会/指挥与控制学会会员，担任多个国际期刊和会议 (IEEE TNNLS, TITS, TCYB, SMC, RAL, TIV, INS, KBS, ICRA, IROS等) 审稿人。指导学生获奖省部级及以上科技竞赛和创新创业大赛3项。
 <!--2019年获哈尔滨工业大学控制科学与工程专业硕士学位（导师：[遆晓光教授](https://homepage.hit.edu.cn/dixiaoguang)，[马杰教授](https://homepage.hit.edu.cn/majie?lang=zh)）。-->
 
 

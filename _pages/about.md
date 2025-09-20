@@ -28,7 +28,7 @@ Qi Liu is currently an Associate Researcher at the Faculty of Robot Science and 
 ## <font color="blue">Research Interests</font>
 His primary research interests include deep reinforcement learning algorithms and embodied intelligence:
 - **Deep Reinforcement Learning Algorithms**: Value function estimation, agent exploration, safe reinforcement learning, etc.
-- **Multi-Agent Deep Reinforcement Learning Algorithms**: Multi-agent coperation, credit assignment, etc.
+- **Multi-Agent Deep Reinforcement Learning Algorithms**: Multi-agent cooperation, credit assignment, etc.
 - **Large Language Model Alignment**: Safe value alignment, reinforcement learning from human feedback, etc.
 - **Embodied Intelligence**: Learning-based (deep reinforcement learning, imitation learning, and large language models) control, decision-making, and collaboration for various intelligent robots, such as gait and skill learning for quadruped robots, manipulation with robotic arms and multi-fingered dexterous hands, whole-body control of bipedal humanoid robots, and navigation for wheeled robots and autonomous vehicles.
 

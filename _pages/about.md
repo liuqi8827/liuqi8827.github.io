@@ -87,7 +87,7 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - **Qi Liu<sup>#</sup>**, Xiaopeng Zhang<sup>#</sup>, Mingshan Tan, Shuaikang Ma, Jinliang Ding, Yanjie Li. MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion. arXiv preprint arXiv:2508.10423
 - **Qi Liu**, Jianqi Gao, et al. Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective. arXiv preprint arXiv:2408.13750
 - Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. arXiv preprint arXiv:2504.14989.
-- In Peer Review: IEEE TETC, TNNLS, KBS, ESWA, IEEE RAL.
+- In Peer Review: IEEE TETC, TNNLS, ESWA, IEEE RAL.
 
 ## <font color="blue">具身智能示例（部分）</font>
 - 双足人形机器人控制

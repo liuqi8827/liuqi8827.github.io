@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-刘奇，男，工学博士，东北大学机器人科学与工程学院特聘副研究员（[学校个人主页](http://faculty.neu.edu.cn/liuqi/zh_CN/index.htm))。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang))，研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议(IEEE TNNLS, TITS, TETCI, INS, ICRA等)上发表论文30余篇，其中第一或通讯作者论文10余篇。主持国家自然科学基金青年项目等纵向项目3项，企业横向项目2项。作为骨干研究人员参与国家自然科学联合/面上基金等项目多项。先后在四家具身智能和大模型公司从事研究工作，中国自动化学会/人工智能学会/指挥与控制学会会员，受邀担任多个国际期刊和会议 (IEEE TNNLS, TITS, TCYB, SMC, RAL, TIV, INS, KBS, ICRA, IROS等) 审稿人。指导学生获奖国家或省部级及以上科技竞赛/创新创业大赛3项。
+刘奇，男，工学博士，东北大学机器人科学与工程学院特聘副研究员（[学校个人主页](http://faculty.neu.edu.cn/liuqi/zh_CN/index.htm))。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang))，研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议(IEEE TNNLS, TITS, TETCI, KBS, INS, ICRA等)上发表论文30余篇，其中第一或通讯作者论文10余篇。主持国家自然科学基金青年项目等纵向项目3项，企业横向项目2项。作为骨干研究人员参与国家自然科学联合/面上基金等项目多项。先后在四家具身智能和大模型公司从事研究工作，中国自动化学会/人工智能学会/指挥与控制学会会员，受邀担任多个国际期刊和会议 (IEEE TNNLS, TITS, TCYB, SMC, RAL, TIV, INS, KBS, ICRA, IROS等) 审稿人。指导学生获奖国家或省部级及以上科技竞赛/创新创业大赛3项。
 <!--2019年获哈尔滨工业大学控制科学与工程专业硕士学位（导师：[遆晓光教授](https://homepage.hit.edu.cn/dixiaoguang)，[马杰教授](https://homepage.hit.edu.cn/majie?lang=zh)）。-->
 
 
@@ -71,6 +71,7 @@ Topic: Autonomous Driving @SLAM Team, Research on the localization and mapping o
 Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 
 ## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作, <sup>*</sup>通讯作者）</span> </font>
+- **Qi Liu**, Pengbin Chen, Ke Lin, Kaidong Zhao, Jinliang Ding, and Yanjie Li. Sample-Efficient Backtrack Temporal Difference Deep Reinforcement Learning. Knowledge-Based Systems, 2025. (JCR 1区，中科院大类1区，IF: 7.6，TOP期刊)
 - **Qi Liu<sup>#</sup>**, Jingxiang Guo<sup>#</sup>, Sixi Lin, Shuaikang Ma, Jinxuan Zhu, Yanjie Li. MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion. International Conference on Machine Learning (ICML) Workshop, 2025. (CSRankings)
 - **Qi Liu**, Yanjie Li, Xiongtao Shi, Ke Lin, Yuecheng Liu, Yunjiang Lou. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR 1区，中科院大类1区，IF: 10.4，TOP期刊)
 - **Qi Liu**, Yanjie Li, Yuecheng Liu，Ke Lin，Jianqi Gao, Yunjiang Lou. Data Efficient Deep Reinforcement Learning With Action-Ranked Temporal Difference Learning, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024. (JCR 1区，中科院大类2区，IF: 6.5)

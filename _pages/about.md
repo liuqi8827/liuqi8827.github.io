@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-刘奇，男，工学博士，东北大学机器人科学与工程学院特聘副研究员（[学校个人主页](http://faculty.neu.edu.cn/liuqi/zh_CN/index.htm))。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang))，研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议(IEEE TNNLS, TITS, TETCI, KBS, INS, ICRA等)上发表论文30余篇，其中第一或通讯作者论文10余篇（7篇为中科院1区或顶会论文）。主持国家自然科学基金青年项目等纵向项目3项，企业横向项目2项。作为骨干研究人员参与国家自然科学联合/面上基金等项目多项。先后在四家具身智能和大模型公司从事研究工作，中国自动化学会/人工智能学会/指挥与控制学会会员，受邀担任多个国际期刊和会议 (IEEE TNNLS, TITS, TCYB, SMC, RAL, TIV, INS, KBS, ICRA, IROS等) 审稿人。指导学生获奖国家或省部级及以上科技竞赛/创新创业大赛3项。
+刘奇，男，工学博士，东北大学机器人科学与工程学院特聘副研究员（[学校个人主页](http://faculty.neu.edu.cn/liuqi/zh_CN/index.htm))。2024年获哈尔滨工业大学（深圳）控制科学与工程专业博士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang))，研究方向为深度强化学习算法、具身智能和大模型等。在国内外著名学术期刊和会议(IEEE TNNLS, TITS, TETCI, KBS, INS, ICRA等)上发表论文30余篇，其中第一或通讯作者论文10余篇（7篇为中科院1区或顶会论文）。主持国家自然科学基金青年项目等纵向项目3项，企业横向项目2项。作为骨干研究人员参与国家自然科学联合/面上基金等项目多项。先后在四家具身智能和大模型公司从事研究工作，中国自动化学会/人工智能学会/指挥与控制学会会员，受邀担任多个国际期刊和会议 (IEEE TNNLS, TITS, TCYB, SMC, TII，RAL, TIV, INS, KBS, ICRA, IROS等) 审稿人。指导学生获奖国家或省部级及以上科技竞赛/创新创业大赛3项。
 <!--2019年获哈尔滨工业大学控制科学与工程专业硕士学位（导师：[遆晓光教授](https://homepage.hit.edu.cn/dixiaoguang)，[马杰教授](https://homepage.hit.edu.cn/majie?lang=zh)）。-->
 
 
@@ -84,10 +84,11 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - Linyu Li<sup>#</sup>, **Qi Liu<sup>#</sup>**, Yanjie Li, Yongjin Mu, and Zheng Zhang. A Risk-sensitive Automatic Stock Trading Strategy Based on Deep Reinforcement Learning and Transformer. 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), 2024.
 - **Qi Liu**, Yanjie Li, Yuecheng Liu, Meiling Chen, Shaohua Lv and Yunhong Xu. Exploration via Distributional Reinforcement Learning with Epistemic and Aleatoric Uncertainty Estimation. 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE), 2021.
 - **Qi Liu**, Yanjie Li, Lintao Liu. A 3D Simulation Environment and Navigation Approach for Robot Navigation via Deep Reinforcement Learning in Dense Pedestrian Environment. 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), 2020.
-- **Qi Liu<sup>#</sup>**, Xiaopeng Zhang<sup>#</sup>, Mingshan Tan, Shuaikang Ma, Jinliang Ding, Yanjie Li. MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion. arXiv preprint arXiv:2508.10423
+- **Qi Liu<sup>#</sup>**, Xiaopeng Zhang<sup>#</sup>, Mingshan Tan, Shuaikang Ma, Jinliang Ding, Yanjie Li. MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion. arXiv preprint arXiv:2508.10423. Submitted to TNNLS.
+- Pengbin Chen<sup>#</sup>, **Qi Liu<sup>#</sup>**, Yanjie Li, et al. Multi-Discounting Reinforcement Learning Based on Reward Decomposition, IEEE Transactions on Emerging Topics in Computing, 2025, Under review.
+- Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. arXiv preprint arXiv:2504.14989. Submitted to IEEE RAL.
 - **Qi Liu**, Jianqi Gao, et al. Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective. arXiv preprint arXiv:2408.13750
-- Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. arXiv preprint arXiv:2504.14989.
-- In Peer Review: IEEE TETC, TNNLS, ESWA, IEEE RAL.
+- In Peer Review: IEEE TNNLS, IEEE TETC, IEEE RAL.
 
 ## <font color="blue">具身智能示例（部分）</font>
 - 双足人形机器人控制
@@ -160,6 +161,7 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC: Systems)
+- IEEE Transactions on Industrial Informatics (TII)
 - IEEE Robotics and Automation Letters (RAL)
 - IEEE Transactions on Intelligent Vehicles (TIV)
 - IEEE International Conference on Robotics and Automation (ICRA)

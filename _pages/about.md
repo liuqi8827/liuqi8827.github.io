@@ -73,6 +73,7 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 ## <font color="blue">科研论文（部分）<span style="font-weight: normal;">（<sup>#</sup>共同一作, <sup>*</sup>通讯作者）</span> </font>
 - **Qi Liu**, Pengbin Chen, Ke Lin, Kaidong Zhao, Jinliang Ding, and Yanjie Li. Sample-Efficient Backtrack Temporal Difference Deep Reinforcement Learning. Knowledge-Based Systems, 2025. (JCR 1区，中科院大类1区，IF: 7.6，TOP期刊)
 - **Qi Liu<sup>#</sup>**, Jingxiang Guo<sup>#</sup>, Sixi Lin, Shuaikang Ma, Jinxuan Zhu, Yanjie Li. MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion. International Conference on Machine Learning (ICML) Workshop, 2025. (CSRankings)
+- Pengbin Chen<sup>#</sup>, **Qi Liu<sup>#</sup>**, Yanjie Li, et al. Multi-Discounting Reinforcement Learning Based on Reward Decomposition, IEEE Transactions on Emerging Topics in Computing, 2025. (JCR 1区，中科院大类2区，IF: 5.4)
 - **Qi Liu**, Yanjie Li, Xiongtao Shi, Ke Lin, Yuecheng Liu, Yunjiang Lou. Distributional Policy Gradient With Distributional Value Function. IEEE Transactions on Neural Networks and Learning Systems, 2024. (JCR 1区，中科院大类1区，IF: 10.4，TOP期刊)
 - **Qi Liu**, Yanjie Li, Yuecheng Liu，Ke Lin，Jianqi Gao, Yunjiang Lou. Data Efficient Deep Reinforcement Learning With Action-Ranked Temporal Difference Learning, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024. (JCR 1区，中科院大类2区，IF: 6.5)
 - **Qi Liu**, Yanjie Li, Shiyu Chen, Ke Lin, Xiongtao Shi, Yunjiang Lou. Distributional Reinforcement Learning With Epistemic and Aleatoric Uncertainty Estimation. Information Sciences, 2023. (JCR 1区，中科院大类1区，IF: 8.1，TOP期刊)
@@ -85,10 +86,9 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - **Qi Liu**, Yanjie Li, Yuecheng Liu, Meiling Chen, Shaohua Lv and Yunhong Xu. Exploration via Distributional Reinforcement Learning with Epistemic and Aleatoric Uncertainty Estimation. 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE), 2021.
 - **Qi Liu**, Yanjie Li, Lintao Liu. A 3D Simulation Environment and Navigation Approach for Robot Navigation via Deep Reinforcement Learning in Dense Pedestrian Environment. 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), 2020.
 - **Qi Liu<sup>#</sup>**, Xiaopeng Zhang<sup>#</sup>, Mingshan Tan, Shuaikang Ma, Jinliang Ding, Yanjie Li. MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion. arXiv preprint arXiv:2508.10423. Submitted to TNNLS.
-- Pengbin Chen<sup>#</sup>, **Qi Liu<sup>#</sup>**, Yanjie Li, et al. Multi-Discounting Reinforcement Learning Based on Reward Decomposition, IEEE Transactions on Emerging Topics in Computing, 2025, Under review.
 - Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. arXiv preprint arXiv:2504.14989. Submitted to IEEE RAL.
 - **Qi Liu**, Jianqi Gao, et al. Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective. arXiv preprint arXiv:2408.13750
-- In Peer Review: IEEE TNNLS, IEEE TETC, IEEE RAL.
+- In Peer Review: IEEE TNNLS, IEEE RAL.
 
 ## <font color="blue">具身智能示例（部分）</font>
 - 双足人形机器人控制

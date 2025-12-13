@@ -21,7 +21,7 @@ Qi Liu is currently an Associate Researcher at the Faculty of Robot Science and 
 - **大语言模型对齐**：如安全价值对齐、人类反馈强化学习等
 - **具身智能**：基于学习（深度强化学习、模仿学习和大模型等）的各类智能机器人控制、决策和协作，如：四足机械狗的步态和技能学习、机械臂和多指灵巧手的操作、双足人形机器人全身控制、轮式机器人和无人驾驶导航。
 
-<font color="purple">欢迎对上述方向感兴趣的学生（本硕博）和工业界朋友联系，进行科研（可远程）和项目合作。也欢迎对深度强化学习在其他领域的应用感兴趣的学生和工业界朋友联系。</font>    
+<font color="purple">欢迎对上述方向感兴趣的学生（本硕博）和工业界朋友联系，进行科研（可远程）和项目合作。也欢迎对深度强化学习在其他领域的应用感兴趣的学生和工业界朋友联系。</font>              
 <font color="purple">邮箱：liuqi@mail.neu.edu.cn，手机和微信号：13713517967。</font>
 
 ## <font color="blue">Research Interests</font>
@@ -31,7 +31,7 @@ His primary research interests include deep reinforcement learning algorithms an
 - **Large Language Model Alignment**: Safe value alignment, reinforcement learning from human feedback, etc.
 - **Embodied Intelligence**: Learning-based (deep reinforcement learning, imitation learning, and large language models) control, decision-making, and collaboration for various intelligent robots, such as gait and skill learning for quadruped robots, manipulation with robotic arms and multi-fingered dexterous hands, whole-body control of bipedal humanoid robots, and navigation for wheeled robots and autonomous vehicles.
 
-<font color="purple">Students (undergraduate, master, and PhD) and industry professionals who are interested in the aforementioned research directions are warmly welcome to reach out for potential research collaborations (remote collaboration is available).</font>    
+<font color="purple">Students (undergraduate, master, and PhD) and industry professionals who are interested in the aforementioned research directions are warmly welcome to reach out for potential research collaborations (remote collaboration is available).</font>             
 <font color="purple">Email：liuqi@mail.neu.edu.cn</font>
 
 ## <font color="blue">研究经历</font>

@@ -85,7 +85,7 @@ Mentor: Binfeng Xu, Algorithm Engineer at Horizon Robotics, Inc.
 - **Qi Liu**, Yanjie Li, Yuecheng Liu, Meiling Chen, Shaohua Lv and Yunhong Xu. Exploration via Distributional Reinforcement Learning with Epistemic and Aleatoric Uncertainty Estimation. 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE), 2021.
 - **Qi Liu**, Yanjie Li, Lintao Liu. A 3D Simulation Environment and Navigation Approach for Robot Navigation via Deep Reinforcement Learning in Dense Pedestrian Environment. 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), 2020.
 - **Qi Liu<sup>#</sup>**, Xiaopeng Zhang<sup>#</sup>, Mingshan Tan, Shuaikang Ma, Jinliang Ding, Yanjie Li. MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion. arXiv preprint arXiv:2508.10423. IEEE Transactions on Neural Networks and Learning Systems, 2025. Under Review.
-- Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. arXiv preprint arXiv:2504.14989. Submitted to IEEE RAL.
+- Dongjie Zhu, Zhuo Yang, Tianhang Wu, Luzhou Ge, Xuesong Li, **Qi Liu<sup>*</sup>**, Xiang Li<sup>*</sup>. Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning. arXiv preprint arXiv:2504.14989. IEEE Robotics and Automation Letters, 2025. Under Review.
 - **Qi Liu**, Jianqi Gao, et al. Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective. arXiv preprint arXiv:2408.13750
 - In Peer Review: IEEE TNNLS, IEEE RAL.
 
